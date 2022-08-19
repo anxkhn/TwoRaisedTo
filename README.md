@@ -36,4 +36,4 @@ The game ends if you enter the wrong answer.
 ### Please leave a review after you play the game.
 
 
-###### Made for fun under an two hours as a excule to learn time related functions and debug on edge cases.
+###### Made for fun under an two hours as a excuse to learn time related functions and debug on edge cases.
