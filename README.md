@@ -1,6 +1,6 @@
 # TwoRaisedTo
 
-TwoRaisedTo is a game written in _C_ to test how fast and for how long can you compute higher orders of *two*.
+TwoRaisedTo is a command line game written in *C* Programming language to test how fast and for how long can you compute higher orders of *two*.
 
 This game is designed for computer programmers who are obsessed with _binary_.
 
