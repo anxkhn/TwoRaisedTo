@@ -13,7 +13,7 @@ There are 10 modes to choose from -
 &nbsp;
 
 ### 1. Race Against Time
-You are given 30 seconds to reach the highest levels.
+You are given 20 seconds to reach the highest levels.
 The game ends if you enter the wrong answer, or run out of time.
 
 &nbsp;
