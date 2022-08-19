@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <time.h>
+#include <math.h>
 
 int main()
 {
@@ -18,7 +19,7 @@ int main()
 		input = 1; i = random = time_bonus = 0;
 		if (mode == '1')
 		{
-			printf("\nYou have 30 seconds.\n");
+			printf("\nYou have 20 seconds.\n");
 			sleep(2);
 			printf("Answer as fast as possible.\n");
 			sleep(2);
@@ -31,7 +32,7 @@ int main()
 			printf("...\n\n");
 			time(&start_game_time);
 			time(&check_time);
-			while (input == pow(2, i) && (check_time - start_game_time) <= 30)
+			while (input == pow(2, i) && (check_time - start_game_time) <= 20)
 			{
 				time(&round_time);
 				printf("What is 2^%d?\t", i + 1);
