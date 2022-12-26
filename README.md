@@ -16,11 +16,15 @@ There are 10 modes to choose from -
 You are given 20 seconds to reach the highest levels.
 The game ends if you enter the wrong answer, or run out of time.
 
+[![asciicast](https://asciinema.org/a/IV3SeuK0AGIb8qg3xLq1qAeM3.svg)](https://asciinema.org/a/IV3SeuK0AGIb8qg3xLq1qAeM3)
+
 &nbsp;
 
 ### 2. Challenger Mode
 There is no timelimit, however the orders are random and gets difficult with each level.
 The game ends if you enter the wrong answer.
+
+[![asciicast](https://asciinema.org/a/4un9MmzDRdhk4DYpMgrKznR8I.svg)](https://asciinema.org/a/4un9MmzDRdhk4DYpMgrKznR8I)
 
 &nbsp;
 
